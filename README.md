@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Maureen DOMCHE
+# Salut 👋, je suis Maureen 
 
 🎓 Business Intelligence & Data Science enthusiast  
 
-📊 Passionate about:
-- Data Analytics
+📊 Centres d’intérêt :
+- Analyse de données
 - Data Engineering
-- Business Intelligence Solutions
+- Solutions de Business Intelligence
 
-🚀 Currently working on data engineering projects and continuously improving my skills to stay up to date with modern data technologies.
+🚀 Je travaille actuellement sur des projets de Data Engineering et j’améliore de manière continue mes compétences afin de rester à jour sur les technologies modernes de la data.
 
-## 🛠️ Common Tools & Technologies
+## 🛠️ Outils & Technologies
 - Power BI
 - SQL
 - Python
@@ -21,15 +21,12 @@
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🤝 Looking to Collaborate
-I’m looking to collaborate on challenging projects involving:
+Je souhaite collaborer sur des projets stimulants autour :
 - Modern Data Stack
 - Data Engineering
 - BI & Reporting Solutions
 - Cloud Data Platforms
 - Analytics & Automation
-
-## 🌱 Current Goal
-Continuously improving my expertise in data technologies and building impactful data-driven solutions.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
